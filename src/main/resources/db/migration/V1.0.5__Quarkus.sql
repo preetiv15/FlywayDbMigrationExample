@@ -1,0 +1,1 @@
+alter table  department drop column final_Remark;
