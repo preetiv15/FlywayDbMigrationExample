@@ -1,0 +1,2 @@
+VALUES (3, 'JOB3', 3, 'Publish Ad', 'HR', '2022-01-01', '2022-01-14', '2022-01-07', '2022-01-22', 1, 'Completed', 'Delay due to covid'),
+       (4, 'JOB4', 4, 'Publish Ad', 'HR', '2022-01-01', '2022-01-15', '2022-01-07', '2022-01-22', 2, 'Completed', 'Delay due to covid');
