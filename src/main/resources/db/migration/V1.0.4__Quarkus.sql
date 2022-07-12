@@ -1,1 +1,0 @@
-alter table  department add column final_Remark varchar(10);
